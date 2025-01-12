@@ -1,0 +1,14 @@
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.AssemblyInfoInputs.cache
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.AssemblyInfo.cs
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.csproj.CoreCompileInputs.cache
+/home/byte-builder/StopWatch/bin/Debug/net8.0/StopWatch
+/home/byte-builder/StopWatch/bin/Debug/net8.0/StopWatch.deps.json
+/home/byte-builder/StopWatch/bin/Debug/net8.0/StopWatch.runtimeconfig.json
+/home/byte-builder/StopWatch/bin/Debug/net8.0/StopWatch.dll
+/home/byte-builder/StopWatch/bin/Debug/net8.0/StopWatch.pdb
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.dll
+/home/byte-builder/StopWatch/obj/Debug/net8.0/refint/StopWatch.dll
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.pdb
+/home/byte-builder/StopWatch/obj/Debug/net8.0/StopWatch.genruntimeconfig.cache
+/home/byte-builder/StopWatch/obj/Debug/net8.0/ref/StopWatch.dll
